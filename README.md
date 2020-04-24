@@ -1,1 +1,2 @@
 # testProject
+GITと友だちになろう
